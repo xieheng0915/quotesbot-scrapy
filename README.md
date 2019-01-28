@@ -14,3 +14,7 @@ $ scrapy list
 toscrape-css
 toscrape-xpath
 ```
+
+
+I didn't upload crawling result file toscrapy-css.json and other json files, they are too large, U can just try this applications.
+
